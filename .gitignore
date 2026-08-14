@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 dataset/**.DS_Store
+=======
+dataset/**
+.ipynb_checkpoints/
+.DS_Store
+*.BACKUP-*.ipynb
+>>>>>>> 4b58a886b59b6d5b153e9ad619a1ec725082082f
